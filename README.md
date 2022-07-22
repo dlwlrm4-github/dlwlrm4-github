@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rony Mir</h1>
-<h3 align="center">A competitive programmer and CSE undergrad</h3>
+<h3 align="center">A competitive programmer and 3rd year CSE undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlwlrm4-github&label=Profile%20views&color=0e75b6&style=flat" alt="dlwlrm4-github" /> </p>
 
